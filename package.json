@@ -1,0 +1,25 @@
+{
+  "name": "precess",
+  "version": "0.0.1",
+  "description": "a framework for screeps",
+  "main": "main.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aMoniker/precess.git"
+  },
+  "keywords": [
+    "screeps"
+  ],
+  "author": "James Greenleaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aMoniker/precess/issues"
+  },
+  "homepage": "https://github.com/aMoniker/precess#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
