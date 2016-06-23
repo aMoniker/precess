@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/aMoniker/precess#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-screeps": "^1.0.2"
   }
 }
